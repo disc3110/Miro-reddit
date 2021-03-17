@@ -16,13 +16,6 @@ This program is designed to create users, posts and comments through `rails cons
 - Ruby on Rails
 - Ruby
 
-
-## Getting Started 
-
-- 
-- Open a terminal in the project folder and run `rails console`.
-
-
 ### Prerequisites
 
 * Internet connection
